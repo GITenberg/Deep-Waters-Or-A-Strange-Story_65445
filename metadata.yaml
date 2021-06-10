@@ -1,0 +1,27 @@
+_repo: Deep-Waters-Or-A-Strange-Story_65445
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crozier, R. H. (Robert Hoskins)
+    alias: Crozier, Robert Hoskins
+    birthdate: 1836
+    deathdate: 1913
+    gutenberg_agent_id: '53352'
+    url: http://www.gutenberg.org/2009/agents/53352
+description: ''
+gutenberg_issued: '2021-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Predestination -- Fiction'
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- GITenberg
+title: Deep Waters; Or, A Strange Story
+url: http://www.gutenberg.org/ebooks/65445
